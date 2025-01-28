@@ -1,0 +1,136 @@
+image_name,beverage,position,location_number,location_description,alcohol_notalcohol,beverage_type,has_alcohol,inside_outside
+beer_bottle_foreground1,beer bottle,foreground,1,In front of neon lights,alcohol,beer,yes,inside
+beer_bottle_midground1,beer bottle,midground,1,In front of neon lights,alcohol,beer,yes,inside
+beer_bottle_background1,beer bottle,background,1,In front of neon lights,alcohol,beer,yes,inside
+beer_glass_foreground1,beer glass,foreground,1,In front of neon lights,alcohol,beer,yes,inside
+beer_glass_midground1,beer glass,midground,1,In front of neon lights,alcohol,beer,yes,inside
+beer_glass_background1,beer glass,background,1,In front of neon lights,alcohol,beer,yes,inside
+whitewine_glass_foreground1,white wine glass,foreground,1,In front of neon lights,alcohol,wine,yes,inside
+whitewine_glass_midground1,white wine glass,midground,1,In front of neon lights,alcohol,wine,yes,inside
+whitewine_glass_background1,white wine glass,background,1,In front of neon lights,alcohol,wine,yes,inside
+redwine_glass_foreground1,red wine glass,foreground,1,In front of neon lights,alcohol,wine,yes,inside
+redwine_glass_midground1,red wine glass,midground,1,In front of neon lights,alcohol,wine,yes,inside
+redwine_glass_background1,red wine glass,background,1,In front of neon lights,alcohol,wine,yes,inside
+water_bottle_foreground1,water bottle,foreground,1,In front of neon lights,not alcohol,water,no,inside
+water_bottle_midground1,water bottle,midground,1,In front of neon lights,not alcohol,water,no,inside
+water_bottle_background1,water bottle,background,1,In front of neon lights,not alcohol,water,no,inside
+water_cup_foreground1,water cup,foreground,1,In front of neon lights,not alcohol,water,no,inside
+water_cup_midground1,water cup,midground,1,In front of neon lights,not alcohol,water,no,inside
+water_cup_background1,water cup,background,1,In front of neon lights,not alcohol,water,no,inside
+coffee_cup_foreground1,coffee cup,foreground,1,In front of neon lights,not alcohol,coffee,no,inside
+coffee_cup_midground1,coffee cup,midground,1,In front of neon lights,not alcohol,coffee,no,inside
+coffee_cup_background1,coffee cup,background,1,In front of neon lights,not alcohol,coffee,no,inside
+coffee_plunger_foreground1,coffee plunger,foreground,1,In front of neon lights,not alcohol,coffee,no,inside
+coffee_plunger_midground1,coffee plunger,midground,1,In front of neon lights,not alcohol,coffee,no,inside
+coffee_plunger_background1,coffee plunger,background,1,In front of neon lights,not alcohol,coffee,no,inside
+tea_cup_foreground1,tea cup,foreground,1,In front of neon lights,not alcohol,tea,no,inside
+tea_cup_midground1,tea cup,midground,1,In front of neon lights,not alcohol,tea,no,inside
+tea_cup_background1,tea cup,background,1,In front of neon lights,not alcohol,tea,no,inside
+beer_bottle_foreground2,beer bottle,foreground,2,In office,alcohol,beer,yes,inside
+beer_bottle_midground2,beer bottle,midground,2,In office,alcohol,beer,yes,inside
+beer_bottle_background2,beer bottle,background,2,In office,alcohol,beer,yes,inside
+beer_glass_foreground2,beer glass,foreground,2,In office,alcohol,beer,yes,inside
+beer_glass_midground2,beer glass,midground,2,In office,alcohol,beer,yes,inside
+beer_glass_background2,beer glass,background,2,In office,alcohol,beer,yes,inside
+whitewine_glass_foreground2,white wine glass,foreground,2,In office,alcohol,wine,yes,inside
+whitewine_glass_midground2,white wine glass,midground,2,In office,alcohol,wine,yes,inside
+whitewine_glass_background2,white wine glass,background,2,In office,alcohol,wine,yes,inside
+redwine_glass_foreground2,red wine glass,foreground,2,In office,alcohol,wine,yes,inside
+redwine_glass_midground2,red wine glass,midground,2,In office,alcohol,wine,yes,inside
+redwine_glass_background2,red wine glass,background,2,In office,alcohol,wine,yes,inside
+water_bottle_foreground2,water bottle,foreground,2,In office,not alcohol,water,no,inside
+water_bottle_midground2,water bottle,midground,2,In office,not alcohol,water,no,inside
+water_bottle_background2,water bottle,background,2,In office,not alcohol,water,no,inside
+water_cup_foreground2,water cup,foreground,2,In office,not alcohol,water,no,inside
+water_cup_midground2,water cup,midground,2,In office,not alcohol,water,no,inside
+water_cup_background2,water cup,background,2,In office,not alcohol,water,no,inside
+coffee_cup_foreground2,coffee cup,foreground,2,In office,not alcohol,coffee,no,inside
+coffee_cup_midground2,coffee cup,midground,2,In office,not alcohol,coffee,no,inside
+coffee_cup_background2,coffee cup,background,2,In office,not alcohol,coffee,no,inside
+coffee_plunger_foreground2,coffee plunger,foreground,2,In office,not alcohol,coffee,no,inside
+coffee_plunger_midground2,coffee plunger,midground,2,In office,not alcohol,coffee,no,inside
+coffee_plunger_background2,coffee plunger,background,2,In office,not alcohol,coffee,no,inside
+tea_cup_foreground2,tea cup,foreground,2,In office,not alcohol,tea,no,inside
+tea_cup_midground2,tea cup,midground,2,In office,not alcohol,tea,no,inside
+tea_cup_background2,tea cup,background,2,In office,not alcohol,tea,no,inside
+beer_bottle_foreground3,beer bottle,foreground,3,Chilling on couch,alcohol,beer,yes,inside
+beer_bottle_midground3,beer bottle,midground,3,Chilling on couch,alcohol,beer,yes,inside
+beer_bottle_background3,beer bottle,background,3,Chilling on couch,alcohol,beer,yes,inside
+beer_glass_foreground3,beer glass,foreground,3,Chilling on couch,alcohol,beer,yes,inside
+beer_glass_midground3,beer glass,midground,3,Chilling on couch,alcohol,beer,yes,inside
+beer_glass_background3,beer glass,background,3,Chilling on couch,alcohol,beer,yes,inside
+whitewine_glass_foreground3,white wine glass,foreground,3,Chilling on couch,alcohol,wine,yes,inside
+whitewine_glass_midground3,white wine glass,midground,3,Chilling on couch,alcohol,wine,yes,inside
+whitewine_glass_background3,white wine glass,background,3,Chilling on couch,alcohol,wine,yes,inside
+redwine_glass_foreground3,red wine glass,foreground,3,Chilling on couch,alcohol,wine,yes,inside
+redwine_glass_midground3,red wine glass,midground,3,Chilling on couch,alcohol,wine,yes,inside
+redwine_glass_background3,red wine glass,background,3,Chilling on couch,alcohol,wine,yes,inside
+water_bottle_foreground3,water bottle,foreground,3,Chilling on couch,not alcohol,water,no,inside
+water_bottle_midground3,water bottle,midground,3,Chilling on couch,not alcohol,water,no,inside
+water_bottle_background3,water bottle,background,3,Chilling on couch,not alcohol,water,no,inside
+water_cup_foreground3,water cup,foreground,3,Chilling on couch,not alcohol,water,no,inside
+water_cup_midground3,water cup,midground,3,Chilling on couch,not alcohol,water,no,inside
+water_cup_background3,water cup,background,3,Chilling on couch,not alcohol,water,no,inside
+coffee_cup_foreground3,coffee cup,foreground,3,Chilling on couch,not alcohol,coffee,no,inside
+coffee_cup_midground3,coffee cup,midground,3,Chilling on couch,not alcohol,coffee,no,inside
+coffee_cup_background3,coffee cup,background,3,Chilling on couch,not alcohol,coffee,no,inside
+coffee_plunger_foreground3,coffee plunger,foreground,3,Chilling on couch,not alcohol,coffee,no,inside
+coffee_plunger_midground3,coffee plunger,midground,3,Chilling on couch,not alcohol,coffee,no,inside
+coffee_plunger_background3,coffee plunger,background,3,Chilling on couch,not alcohol,coffee,no,inside
+tea_cup_foreground3,tea cup,foreground,3,Chilling on couch,not alcohol,tea,no,inside
+tea_cup_midground3,tea cup,midground,3,Chilling on couch,not alcohol,tea,no,inside
+tea_cup_background3,tea cup,background,3,Chilling on couch,not alcohol,tea,no,inside
+beer_bottle_foreground4,beer bottle,foreground,4,Sitting outside,alcohol,beer,yes,outside
+beer_bottle_midground4,beer bottle,midground,4,Sitting outside,alcohol,beer,yes,outside
+beer_bottle_background4,beer bottle,background,4,Sitting outside,alcohol,beer,yes,outside
+beer_glass_foreground4,beer glass,foreground,4,Sitting outside,alcohol,beer,yes,outside
+beer_glass_midground4,beer glass,midground,4,Sitting outside,alcohol,beer,yes,outside
+beer_glass_background4,beer glass,background,4,Sitting outside,alcohol,beer,yes,outside
+whitewine_glass_foreground4,white wine glass,foreground,4,Sitting outside,alcohol,wine,yes,outside
+whitewine_glass_midground4,white wine glass,midground,4,Sitting outside,alcohol,wine,yes,outside
+whitewine_glass_background4,white wine glass,background,4,Sitting outside,alcohol,wine,yes,outside
+redwine_glass_foreground4,red wine glass,foreground,4,Sitting outside,alcohol,wine,yes,outside
+redwine_glass_midground4,red wine glass,midground,4,Sitting outside,alcohol,wine,yes,outside
+redwine_glass_background4,red wine glass,background,4,Sitting outside,alcohol,wine,yes,outside
+water_bottle_foreground4,water bottle,foreground,4,Sitting outside,not alcohol,water,no,outside
+water_bottle_midground4,water bottle,midground,4,Sitting outside,not alcohol,water,no,outside
+water_bottle_background4,water bottle,background,4,Sitting outside,not alcohol,water,no,outside
+water_cup_foreground4,water cup,foreground,4,Sitting outside,not alcohol,water,no,outside
+water_cup_midground4,water cup,midground,4,Sitting outside,not alcohol,water,no,outside
+water_cup_background4,water cup,background,4,Sitting outside,not alcohol,water,no,outside
+coffee_cup_foreground4,coffee cup,foreground,4,Sitting outside,not alcohol,coffee,no,outside
+coffee_cup_midground4,coffee cup,midground,4,Sitting outside,not alcohol,coffee,no,outside
+coffee_cup_background4,coffee cup,background,4,Sitting outside,not alcohol,coffee,no,outside
+coffee_plunger_foreground4,coffee plunger,foreground,4,Sitting outside,not alcohol,coffee,no,outside
+coffee_plunger_midground4,coffee plunger,midground,4,Sitting outside,not alcohol,coffee,no,outside
+coffee_plunger_background4,coffee plunger,background,4,Sitting outside,not alcohol,coffee,no,outside
+tea_cup_foreground4,tea cup,foreground,4,Sitting outside,not alcohol,tea,no,outside
+tea_cup_midground4,tea cup,midground,4,Sitting outside,not alcohol,tea,no,outside
+tea_cup_background4,tea cup,background,4,Sitting outside,not alcohol,tea,no,outside
+beer_bottle_foreground5,beer bottle,foreground,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+beer_bottle_midground5,beer bottle,midground,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+beer_bottle_background5,beer bottle,background,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+beer_glass_foreground5,beer glass,foreground,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+beer_glass_midground5,beer glass,midground,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+beer_glass_background5,beer glass,background,5,sitting next to chalk drawings,alcohol,beer,yes,outside
+whitewine_glass_foreground5,white wine glass,foreground,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+whitewine_glass_midground5,white wine glass,midground,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+whitewine_glass_background5,white wine glass,background,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+redwine_glass_foreground5,red wine glass,foreground,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+redwine_glass_midground5,red wine glass,midground,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+redwine_glass_background5,red wine glass,background,5,sitting next to chalk drawings,alcohol,wine,yes,outside
+water_bottle_foreground5,water bottle,foreground,5,sitting next to chalk drawings,not alcohol,water,no,outside
+water_bottle_midground5,water bottle,midground,5,sitting next to chalk drawings,not alcohol,water,no,outside
+water_bottle_background5,water bottle,background,5,sitting next to chalk drawings,not alcohol,water,no,outside
+water_cup_foreground5,water cup,foreground,5,sitting next to chalk drawings,not alcohol,water,no,outside
+water_cup_midground5,water cup,midground,5,sitting next to chalk drawings,not alcohol,water,no,outside
+water_cup_background5,water cup,background,5,sitting next to chalk drawings,not alcohol,water,no,outside
+coffee_cup_foreground5,coffee cup,foreground,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+coffee_cup_midground5,coffee cup,midground,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+coffee_cup_background5,coffee cup,background,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+coffee_plunger_foreground5,coffee plunger,foreground,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+coffee_plunger_midground5,coffee plunger,midground,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+coffee_plunger_background5,coffee plunger,background,5,sitting next to chalk drawings,not alcohol,coffee,no,outside
+tea_cup_foreground5,tea cup,foreground,5,sitting next to chalk drawings,not alcohol,tea,no,outside
+tea_cup_midground5,tea cup,midground,5,sitting next to chalk drawings,not alcohol,tea,no,outside
+tea_cup_background5,tea cup,background,5,sitting next to chalk drawings,not alcohol,tea,no,outside
