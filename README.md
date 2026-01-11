@@ -42,7 +42,7 @@ and open `ZSL_for_image_beverage_classification.ipynb`
 (the notebook file)
 in Jupyter Notebook.
 
-### Citation
+## Citation
 
 If you found this notebook useful for your research project, 
 please cite the tutorial article as follows:
