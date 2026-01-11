@@ -41,3 +41,17 @@ download this repository
 and open `ZSL_for_image_beverage_classification.ipynb`
 (the notebook file)
 in Jupyter Notebook.
+
+### Citation
+
+If you found this notebook useful for your research project, 
+please cite the tutorial article as follows:
+
+```bibtex
+@article{zslimagetutorial2025,
+  title={How to analyze visual data using zero-shot learning: An overview and tutorial.},
+  author={Riordan, B. and Millward, J. and He, Z. and Anderson-Luxford, D. and Salim, S. P. and Patsouras, M. and Kuntsche, E.},
+  journal={Psychological Methods},
+  year={2025}
+}
+```
